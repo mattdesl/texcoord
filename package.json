@@ -1,0 +1,41 @@
+{
+  "name": "texcoord",
+  "version": "1.0.0",
+  "description": "uv texture coordinates from a region",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^3.0.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "texcoords",
+    "texcoord",
+    "texture",
+    "coordinate",
+    "coord",
+    "coorindates",
+    "uv",
+    "u",
+    "v",
+    "gl",
+    "glsl",
+    "stackgl"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/texcoord.git"
+  },
+  "homepage": "https://github.com/mattdesl/texcoord",
+  "bugs": {
+    "url": "https://github.com/mattdesl/texcoord/issues"
+  }
+}
