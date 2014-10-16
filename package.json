@@ -1,6 +1,6 @@
 {
   "name": "texcoord",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "uv texture coordinates from a region",
   "main": "index.js",
   "license": "MIT",
