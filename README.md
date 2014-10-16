@@ -2,7 +2,7 @@
 
 [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
 
-Get a [u1, v1, u2, v2] texture coordinate region from the given bounds. Best suited for rendering with top left texture coordinates.
+Get a `[u1, v1, u2, v2]` texture coordinate region from the given bounds. Best suited for rendering with top left texture coordinates.
 
 ```js
 //sprite bounds
